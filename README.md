@@ -1,2 +1,2 @@
 # BMPR-LLEARNING
-Linkend Learning Course
+Linkedin Learning BMRP Course
